@@ -159,9 +159,9 @@ export function App() {
               <div className="px-2 flex items-center flex-1 gap-2">
                 <AtSign className="text-zinc-400 size-5" />
                 <input
-                  type="email"
-                  name="email"
-                  placeholder="Digite o email do convidado"
+                  type = "email"
+                  name = "email"
+                  placeholder = "Digite o email do convidado"
                   className="bg-transparent text-lg placeholder-zinc-400 outline-none flex-1"
                 />
               </div>
